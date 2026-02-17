@@ -15,7 +15,7 @@ Download videos from YouTube, TikTok, Instagram and 1000+ sites.
    - **Option 1:** Right-click the app → **Open** → click **Open Anyway**
    - **Option 2:** Open Terminal and run:
      ```
-     xattr -cr /Applications/Video\ Downloader.app
+     xattr -cr /Applications/VideoDownloader.app
      ```
 5. Launch and enjoy!
 
